@@ -1,6 +1,6 @@
 # myBK
 个人博客系统
-# 项目地址 http://101.200.219.143:8081/login
+
 
 #### 博客首页展示
 ![Image](https://github.com/myBigGod/images/blob/master/b_index.jpg)
